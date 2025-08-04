@@ -33,3 +33,8 @@ The calculator supports the following keyboard keys:
 | `Enter`          | Calculate (=)       |
 | `Backspace`      | Delete last input   |
 | `Escape`         | Clear all           |
+
+---
+
+Live Demo:
+https://dema-jafar.github.io/Calculator/
